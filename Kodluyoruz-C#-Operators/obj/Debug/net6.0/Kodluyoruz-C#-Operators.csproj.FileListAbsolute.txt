@@ -1,0 +1,15 @@
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Operators\bin\Debug\net6.0\Kodluyoruz-C#-Operators.exe
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Operators\bin\Debug\net6.0\Kodluyoruz-C#-Operators.deps.json
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Operators\bin\Debug\net6.0\Kodluyoruz-C#-Operators.runtimeconfig.json
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Operators\bin\Debug\net6.0\Kodluyoruz-C#-Operators.dll
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Operators\bin\Debug\net6.0\Kodluyoruz-C#-Operators.pdb
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Operators\obj\Debug\net6.0\Kodluyoruz-C#-Operators.csproj.AssemblyReference.cache
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Operators\obj\Debug\net6.0\Kodluyoruz-C#-Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Operators\obj\Debug\net6.0\Kodluyoruz-C#-Operators.AssemblyInfoInputs.cache
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Operators\obj\Debug\net6.0\Kodluyoruz-C#-Operators.AssemblyInfo.cs
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Operators\obj\Debug\net6.0\Kodluyoruz-C#-Operators.csproj.CoreCompileInputs.cache
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Operators\obj\Debug\net6.0\Kodluyoruz-C#-Operators.dll
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Operators\obj\Debug\net6.0\refint\Kodluyoruz-C#-Operators.dll
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Operators\obj\Debug\net6.0\Kodluyoruz-C#-Operators.pdb
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Operators\obj\Debug\net6.0\Kodluyoruz-C#-Operators.genruntimeconfig.cache
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Operators\obj\Debug\net6.0\ref\Kodluyoruz-C#-Operators.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nedim\\OneDrive\\Masaüstü\\Kodluyoruz101.C#\\Kodluyoruz-C#-Practice1\\Kodluyoruz-C#-Practice1.csproj",
-      "projectName": "Kodluyoruz-C#-Practice1",
-      "projectPath": "C:\\Users\\nedim\\OneDrive\\Masaüstü\\Kodluyoruz101.C#\\Kodluyoruz-C#-Practice1\\Kodluyoruz-C#-Practice1.csproj",
+      "projectUniqueName": "C:\\Users\\nedim\\OneDrive\\Masaüstü\\Kodluyoruz101.C#\\Kodluyoruz-C#-Operators\\Kodluyoruz-C#-Operators.csproj",
+      "projectName": "Kodluyoruz-C#-Operators",
+      "projectPath": "C:\\Users\\nedim\\OneDrive\\Masaüstü\\Kodluyoruz101.C#\\Kodluyoruz-C#-Operators\\Kodluyoruz-C#-Operators.csproj",
       "packagesPath": "C:\\Users\\nedim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nedim\\OneDrive\\Masaüstü\\Kodluyoruz101.C#\\Kodluyoruz-C#-Practice1\\obj\\",
+      "outputPath": "C:\\Users\\nedim\\OneDrive\\Masaüstü\\Kodluyoruz101.C#\\Kodluyoruz-C#-Operators\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nedim\\AppData\\Roaming\\NuGet\\NuGet.Config",

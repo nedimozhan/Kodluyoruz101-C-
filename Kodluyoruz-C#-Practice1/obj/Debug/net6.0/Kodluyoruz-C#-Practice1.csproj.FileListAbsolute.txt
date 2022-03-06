@@ -1,0 +1,15 @@
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Practice1\obj\Debug\net6.0\Kodluyoruz-C#-Practice1.csproj.AssemblyReference.cache
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Practice1\obj\Debug\net6.0\Kodluyoruz-C#-Practice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Practice1\obj\Debug\net6.0\Kodluyoruz-C#-Practice1.AssemblyInfoInputs.cache
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Practice1\obj\Debug\net6.0\Kodluyoruz-C#-Practice1.AssemblyInfo.cs
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Practice1\obj\Debug\net6.0\Kodluyoruz-C#-Practice1.csproj.CoreCompileInputs.cache
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Practice1\bin\Debug\net6.0\Kodluyoruz-C#-Practice1.exe
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Practice1\bin\Debug\net6.0\Kodluyoruz-C#-Practice1.deps.json
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Practice1\bin\Debug\net6.0\Kodluyoruz-C#-Practice1.runtimeconfig.json
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Practice1\bin\Debug\net6.0\Kodluyoruz-C#-Practice1.dll
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Practice1\bin\Debug\net6.0\Kodluyoruz-C#-Practice1.pdb
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Practice1\obj\Debug\net6.0\Kodluyoruz-C#-Practice1.dll
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Practice1\obj\Debug\net6.0\refint\Kodluyoruz-C#-Practice1.dll
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Practice1\obj\Debug\net6.0\Kodluyoruz-C#-Practice1.pdb
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Practice1\obj\Debug\net6.0\Kodluyoruz-C#-Practice1.genruntimeconfig.cache
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-Practice1\obj\Debug\net6.0\ref\Kodluyoruz-C#-Practice1.dll

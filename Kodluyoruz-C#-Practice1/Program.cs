@@ -45,8 +45,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             string new_temp = temp + temp1.ToString();
             int temp3=  temp1 + Convert.ToInt32(temp);
-            Console.WriteLine(temp3);
-
+            //Console.WriteLine(temp3);
 
 
         }

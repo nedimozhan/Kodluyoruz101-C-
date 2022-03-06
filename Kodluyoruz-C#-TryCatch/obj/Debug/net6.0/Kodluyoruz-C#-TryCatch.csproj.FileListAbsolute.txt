@@ -1,0 +1,15 @@
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-TryCatch\bin\Debug\net6.0\Kodluyoruz-C#-TryCatch.exe
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-TryCatch\bin\Debug\net6.0\Kodluyoruz-C#-TryCatch.deps.json
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-TryCatch\bin\Debug\net6.0\Kodluyoruz-C#-TryCatch.runtimeconfig.json
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-TryCatch\bin\Debug\net6.0\Kodluyoruz-C#-TryCatch.dll
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-TryCatch\bin\Debug\net6.0\Kodluyoruz-C#-TryCatch.pdb
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-TryCatch\obj\Debug\net6.0\Kodluyoruz-C#-TryCatch.csproj.AssemblyReference.cache
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-TryCatch\obj\Debug\net6.0\Kodluyoruz-C#-TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-TryCatch\obj\Debug\net6.0\Kodluyoruz-C#-TryCatch.AssemblyInfoInputs.cache
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-TryCatch\obj\Debug\net6.0\Kodluyoruz-C#-TryCatch.AssemblyInfo.cs
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-TryCatch\obj\Debug\net6.0\Kodluyoruz-C#-TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-TryCatch\obj\Debug\net6.0\Kodluyoruz-C#-TryCatch.dll
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-TryCatch\obj\Debug\net6.0\refint\Kodluyoruz-C#-TryCatch.dll
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-TryCatch\obj\Debug\net6.0\Kodluyoruz-C#-TryCatch.pdb
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-TryCatch\obj\Debug\net6.0\Kodluyoruz-C#-TryCatch.genruntimeconfig.cache
+C:\Users\nedim\OneDrive\Masaüstü\Kodluyoruz101.C#\Kodluyoruz-C#-TryCatch\obj\Debug\net6.0\ref\Kodluyoruz-C#-TryCatch.dll
